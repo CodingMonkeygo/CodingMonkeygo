@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning all things about fontends
+- 🌱 I’m currently learning things about fontends
